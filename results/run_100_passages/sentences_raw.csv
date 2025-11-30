@@ -1,0 +1,578 @@
+para_id,sent_id,sentence,label
+P000000,P000000_S000,"Beyoncé Giselle Knowles-Carter (/biːˈjɒnseɪ/ bee-YON-say) (born September 4, 1981) is an American singer, songwriter, record producer and actress.",0
+P000000,P000000_S001,"Born and raised in Houston, Texas, she performed in various singing and dancing competitions as a child, and rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child.",1
+P000000,P000000_S002,"Managed by her father, Mathew Knowles, the group became one of the world's best-selling girl groups of all time.",1
+P000000,P000000_S003,"Their hiatus saw the release of Beyoncé's debut album, Dangerously in Love (2003), which established her as a solo artist worldwide, earned five Grammy Awards and featured the Billboard Hot 100 number-one singles ""Crazy in Love"" and ""Baby Boy"".",1
+P000001,P000001_S000,"Following the disbandment of Destiny's Child in June 2005, she released her second solo album, B'Day (2006), which contained hits ""Déjà Vu"", ""Irreplaceable"", and ""Beautiful Liar"".",1
+P000001,P000001_S001,"Beyoncé also ventured into acting, with a Golden Globe-nominated performance in Dreamgirls (2006), and starring roles in The Pink Panther (2006) and Obsessed (2009).",1
+P000001,P000001_S002,"Her marriage to rapper Jay Z and portrayal of Etta James in Cadillac Records (2008) influenced her third album, I Am... Sasha Fierce (2008), which saw the birth of her alter-ego Sasha Fierce and earned a record-setting six Grammy Awards in 2010, including Song of the Year for ""Single Ladies (Put a Ring on It)"".",1
+P000001,P000001_S003,"Beyoncé took a hiatus from music in 2010 and took over management of her career; her fourth album 4 (2011) was subsequently mellower in tone, exploring 1970s funk, 1980s pop, and 1990s soul.",0
+P000001,P000001_S004,"Her critically acclaimed fifth studio album, Beyoncé (2013), was distinguished from previous releases by its experimental production and exploration of darker themes.",0
+P000002,P000002_S000,"A self-described ""modern-day feminist"", Beyoncé creates songs that are often characterized by themes of love, relationships, and monogamy, as well as female sexuality and empowerment.",1
+P000002,P000002_S001,"On stage, her dynamic, highly choreographed performances have led to critics hailing her as one of the best entertainers in contemporary popular music.",0
+P000002,P000002_S002,"Throughout a career spanning 19 years, she has sold over 118 million records as a solo artist, and a further 60 million with Destiny's Child, making her one of the best-selling music artists of all time.",1
+P000002,P000002_S003,She has won 20 Grammy Awards and is the most nominated woman in the award's history.,1
+P000002,P000002_S004,The Recording Industry Association of America recognized her as the Top Certified Artist in America during the 2000s decade.,1
+P000002,P000002_S005,"In 2009, Billboard named her the Top Radio Songs Artist of the Decade, the Top Female Artist of the 2000s and their Artist of the Millennium in 2011.",0
+P000002,P000002_S006,Time listed her among the 100 most influential people in the world in 2013 and 2014.,1
+P000002,P000002_S007,Forbes magazine also listed her as the most powerful female musician of 2015.,1
+P000003,P000003_S000,"Beyoncé Giselle Knowles was born in Houston, Texas, to Celestine Ann ""Tina"" Knowles (née Beyincé), a hairdresser and salon owner, and Mathew Knowles, a Xerox sales manager.",1
+P000003,P000003_S001,Beyoncé's name is a tribute to her mother's maiden name.,1
+P000003,P000003_S002,Beyoncé's younger sister Solange is also a singer and a former member of Destiny's Child.,1
+P000003,P000003_S003,"Mathew is African-American, while Tina is of Louisiana Creole descent (with African, Native American, French, Cajun, and distant Irish and Spanish ancestry).",1
+P000003,P000003_S004,"Through her mother, Beyoncé is a descendant of Acadian leader Joseph Broussard.",1
+P000003,P000003_S005,She was raised in a Methodist household.,1
+P000004,P000004_S000,"Beyoncé attended St. Mary's Elementary School in Fredericksburg, Texas, where she enrolled in dance classes.",1
+P000004,P000004_S001,"Her singing talent was discovered when dance instructor Darlette Johnson began humming a song and she finished it, able to hit the high-pitched notes.",1
+P000004,P000004_S002,"Beyoncé's interest in music and performing continued after winning a school talent show at age seven, singing John Lennon's ""Imagine"" to beat 15/16-year-olds.",1
+P000004,P000004_S003,"In fall of 1990, Beyoncé enrolled in Parker Elementary School, a music magnet school in Houston, where she would perform with the school's choir.",1
+P000004,P000004_S004,She also attended the High School for the Performing and Visual Arts and later Alief Elsik High School.,0
+P000004,P000004_S005,Beyoncé was also a member of the choir at St. John's United Methodist Church as a soloist for two years.,1
+P000005,P000005_S000,"At age eight, Beyoncé and childhood friend Kelly Rowland met LaTavia Roberson while in an audition for an all-girl entertainment group.",1
+P000005,P000005_S001,"They were placed into a group with three other girls as Girl's Tyme, and rapped and danced on the talent show circuit in Houston.",1
+P000005,P000005_S002,"After seeing the group, R&B producer Arne Frager brought them to his Northern California studio and placed them in Star Search, the largest talent show on national TV at the time.",1
+P000005,P000005_S003,"Girl's Tyme failed to win, and Beyoncé later said the song they performed was not good.",0
+P000005,P000005_S004,In 1995 Beyoncé's father resigned from his job to manage the group.,1
+P000005,P000005_S005,"The move reduced Beyoncé's family's income by half, and her parents were forced to move into separated apartments.",0
+P000005,P000005_S006,Mathew cut the original line-up to four and the group continued performing as an opening act for other established R&B girl groups.,0
+P000005,P000005_S007,"The girls auditioned before record labels and were finally signed to Elektra Records, moving to Atlanta Records briefly to work on their first recording, only to be cut by the company.",1
+P000005,P000005_S008,"This put further strain on the family, and Beyoncé's parents separated.",0
+P000005,P000005_S009,"On October 5, 1995, Dwayne Wiggins's Grass Roots Entertainment signed the group.",1
+P000005,P000005_S010,"In 1996, the girls began recording their debut album under an agreement with Sony Music, the Knowles family reunited, and shortly after, the group got a contract with Columbia Records.",1
+P000006,P000006_S000,"The group changed their name to Destiny's Child in 1996, based upon a passage in the Book of Isaiah.",1
+P000006,P000006_S001,"In 1997, Destiny's Child released their major label debut song ""Killing Time"" on the soundtrack to the 1997 film, Men in Black.",1
+P000006,P000006_S002,"The following year, the group released their self-titled debut album, scoring their first major hit ""No, No, No"".",1
+P000006,P000006_S003,"The album established the group as a viable act in the music industry, with moderate sales and winning the group three Soul Train Lady of Soul Awards for Best R&B/Soul Album of the Year, Best R&B/Soul or Rap New Artist, and Best R&B/Soul Single for ""No, No, No"".",0
+P000006,P000006_S004,The group released their multi-platinum second album The Writing's on the Wall in 1999.,1
+P000006,P000006_S005,"The record features some of the group's most widely known songs such as ""Bills, Bills, Bills"", the group's first number-one single, ""Jumpin' Jumpin'"" and ""Say My Name"", which became their most successful song at the time, and would remain one of their signature songs.",1
+P000006,P000006_S006,"""Say My Name"" won the Best R&B Performance by a Duo or Group with Vocals and the Best R&B Song at the 43rd Annual Grammy Awards.",0
+P000006,P000006_S007,The Writing's on the Wall sold more than eight million copies worldwide.,0
+P000006,P000006_S008,"During this time, Beyoncé recorded a duet with Marc Nelson, an original member of Boyz II Men, on the song ""After All Is Said and Done"" for the soundtrack to the 1999 film, The Best Man.",1
+P000007,P000007_S000,LeToya Luckett and Roberson became unhappy with Mathew's managing of the band and eventually were replaced by Farrah Franklin and Michelle Williams.,1
+P000007,P000007_S001,"Beyoncé experienced depression following the split with Luckett and Roberson after being publicly blamed by the media, critics, and blogs for its cause.",1
+P000007,P000007_S002,Her long-standing boyfriend left her at this time.,1
+P000007,P000007_S003,"The depression was so severe it lasted for a couple of years, during which she occasionally kept herself in her bedroom for days and refused to eat anything.",1
+P000007,P000007_S004,Beyoncé stated that she struggled to speak about her depression because Destiny's Child had just won their first Grammy Award and she feared no one would take her seriously.,0
+P000007,P000007_S005,Beyoncé would later speak of her mother as the person who helped her fight it.,1
+P000007,P000007_S006,"Franklin was dismissed, leaving just Beyoncé, Rowland, and Williams.",0
+P000008,P000008_S000,"The remaining band members recorded ""Independent Women Part I"", which appeared on the soundtrack to the 2000 film, Charlie's Angels.",1
+P000008,P000008_S001,"It became their best-charting single, topping the U.S.",0
+P000008,P000008_S002,Billboard Hot 100 chart for eleven consecutive weeks.,1
+P000008,P000008_S003,"In early 2001, while Destiny's Child was completing their third album, Beyoncé landed a major role in the MTV made-for-television film, Carmen: A Hip Hopera, starring alongside American actor Mekhi Phifer.",1
+P000008,P000008_S004,"Set in Philadelphia, the film is a modern interpretation of the 19th century opera Carmen by French composer Georges Bizet.",1
+P000008,P000008_S005,"When the third album Survivor was released in May 2001, Luckett and Roberson filed a lawsuit claiming that the songs were aimed at them.",1
+P000008,P000008_S006,The album debuted at number one on the U.S.,0
+P000008,P000008_S007,"Billboard 200, with first-week sales of 663,000 copies sold.",1
+P000008,P000008_S008,"The album spawned other number-one hits, ""Bootylicious"" and the title track, ""Survivor"", the latter of which earned the group a Grammy Award for Best R&B Performance by a Duo or Group with Vocals.",0
+P000008,P000008_S009,"After releasing their holiday album 8 Days of Christmas in October 2001, the group announced a hiatus to further pursue solo careers.",1
+P000009,P000009_S000,"In July 2002, Beyoncé continued her acting career playing Foxxy Cleopatra alongside Mike Myers in the comedy film, Austin Powers in Goldmember, which spent its first weekend atop the US box office and grossed $73 million.",1
+P000009,P000009_S001,"Beyoncé released ""Work It Out"" as the lead single from its soundtrack album which entered the top ten in the UK, Norway, and Belgium.",1
+P000009,P000009_S002,"In 2003, Beyoncé starred opposite Cuba Gooding, Jr., in the musical comedy The Fighting Temptations as Lilly, a single mother whom Gooding's character falls in love with.",1
+P000009,P000009_S003,"The film received mixed reviews from critics but grossed $30 million in the U.S. Beyoncé released ""Fighting Temptation"" as the lead single from the film's soundtrack album, with Missy Elliott, MC Lyte, and Free which was also used to promote the film.",1
+P000009,P000009_S004,"Another of Beyoncé's contributions to the soundtrack, ""Summertime"", fared better on the US charts.",1
+P000010,P000010_S000,"Beyoncé's first solo recording was a feature on Jay Z's ""'03 Bonnie & Clyde"" that was released in October 2002, peaking at number four on the U.S.",1
+P000010,P000010_S001,Billboard Hot 100 chart.,0
+P000010,P000010_S002,"Her first solo album Dangerously in Love was released on June 24, 2003, after Michelle Williams and Kelly Rowland had released their solo efforts.",1
+P000010,P000010_S003,"The album sold 317,000 copies in its first week, debuted atop the Billboard 200, and has since sold 11 million copies worldwide.",1
+P000010,P000010_S004,"The album's lead single, ""Crazy in Love"", featuring Jay Z, became Beyoncé's first number-one single as a solo artist in the US.",1
+P000010,P000010_S005,"The single ""Baby Boy"" also reached number one, and singles, ""Me, Myself and I"" and ""Naughty Girl"", both reached the top-five.",1
+P000010,P000010_S006,"The album earned Beyoncé a then record-tying five awards at the 46th Annual Grammy Awards; Best Contemporary R&B Album, Best Female R&B Vocal Performance for ""Dangerously in Love 2"", Best R&B Song and Best Rap/Sung Collaboration for ""Crazy in Love"", and Best R&B Performance by a Duo or Group with Vocals for ""The Closer I Get to You"" with Luther Vandross.",1
+P000011,P000011_S000,"In November 2003, she embarked on the Dangerously in Love Tour in Europe and later toured alongside Missy Elliott and Alicia Keys for the Verizon Ladies First Tour in North America.",1
+P000011,P000011_S001,"On February 1, 2004, Beyoncé performed the American national anthem at Super Bowl XXXVIII, at the Reliant Stadium in Houston, Texas.",1
+P000011,P000011_S002,"After the release of Dangerously in Love, Beyoncé had planned to produce a follow-up album using several of the left-over tracks.",0
+P000011,P000011_S003,"However, this was put on hold so she could concentrate on recording Destiny Fulfilled, the final studio album by Destiny's Child.",1
+P000011,P000011_S004,"Released on November 15, 2004, in the US and peaking at number two on the Billboard 200, Destiny Fulfilled included the singles ""Lose My Breath"" and ""Soldier"", which reached the top five on the Billboard Hot 100 chart.",1
+P000011,P000011_S005,"Destiny's Child embarked on a worldwide concert tour, Destiny Fulfilled... and Lovin' It and during the last stop of their European tour, in Barcelona on June 11, 2005, Rowland announced that Destiny's Child would disband following the North American leg of the tour.",1
+P000011,P000011_S006,"The group released their first compilation album Number 1's on October 25, 2005, in the US and accepted a star on the Hollywood Walk of Fame in March 2006.",1
+P000012,P000012_S000,"Beyoncé's second solo album B'Day was released on September 5, 2006, in the US, to coincide with her twenty-fifth birthday.",1
+P000012,P000012_S001,"It sold 541,000 copies in its first week and debuted atop the Billboard 200, becoming Beyoncé's second consecutive number-one album in the United States.",1
+P000012,P000012_S002,"The album's lead single ""Déjà Vu"", featuring Jay Z, reached the top five on the Billboard Hot 100 chart.",1
+P000012,P000012_S003,"The second international single ""Irreplaceable"" was a commercial success worldwide, reaching number one in Australia, Hungary, Ireland, New Zealand and the United States.",0
+P000012,P000012_S004,"B'Day also produced three other singles; ""Ring the Alarm"", ""Get Me Bodied"", and ""Green Light"" (released in the United Kingdom only).",1
+P000013,P000013_S000,"Her first acting role of 2006 was in the comedy film The Pink Panther starring opposite Steve Martin, grossing $158.8 million at the box office worldwide.",1
+P000013,P000013_S001,"Her second film Dreamgirls, the film version of the 1981 Broadway musical loosely based on The Supremes, received acclaim from critics and grossed $154 million internationally.",1
+P000013,P000013_S002,"In it, she starred opposite Jennifer Hudson, Jamie Foxx, and Eddie Murphy playing a pop singer based on Diana Ross.",1
+P000013,P000013_S003,"To promote the film, Beyoncé released ""Listen"" as the lead single from the soundtrack album.",1
+P000013,P000013_S004,"In April 2007, Beyoncé embarked on The Beyoncé Experience, her first worldwide concert tour, visiting 97 venues and grossed over $24 million.",1
+P000013,P000013_S005,[note 1] Beyoncé conducted pre-concert food donation drives during six major stops in conjunction with her pastor at St. John's and America's Second Harvest.,0
+P000013,P000013_S006,"At the same time, B'Day was re-released with five additional songs, including her duet with Shakira ""Beautiful Liar"".",1
+P000014,P000014_S000,"On April 4, 2008, Beyoncé married Jay Z.",1
+P000014,P000014_S001,"She publicly revealed their marriage in a video montage at the listening party for her third studio album, I Am... Sasha Fierce, in Manhattan's Sony Club on October 22, 2008.",1
+P000014,P000014_S002,"I Am... Sasha Fierce was released on November 18, 2008 in the United States.",1
+P000014,P000014_S003,"The album formally introduces Beyoncé's alter ego Sasha Fierce, conceived during the making of her 2003 single ""Crazy in Love"", selling 482,000 copies in its first week, debuting atop the Billboard 200, and giving Beyoncé her third consecutive number-one album in the US.",0
+P000014,P000014_S004,"The album featured the number-one song ""Single Ladies (Put a Ring on It)"" and the top-five songs ""If I Were a Boy"" and ""Halo"".",1
+P000014,P000014_S005,"Achieving the accomplishment of becoming her longest-running Hot 100 single in her career, ""Halo""'s success in the US helped Beyoncé attain more top-ten singles on the list than any other woman during the 2000s.",1
+P000014,P000014_S006,"It also included the successful ""Sweet Dreams"", and singles ""Diva"", ""Ego"", ""Broken-Hearted Girl"" and ""Video Phone"".",0
+P000014,P000014_S007,"The music video for ""Single Ladies"" has been parodied and imitated around the world, spawning the ""first major dance craze"" of the Internet age according to the Toronto Star.",0
+P000014,P000014_S008,"The video has won several awards, including Best Video at the 2009 MTV Europe Music Awards, the 2009 Scottish MOBO Awards, and the 2009 BET Awards.",0
+P000014,P000014_S009,"At the 2009 MTV Video Music Awards, the video was nominated for nine awards, ultimately winning three including Video of the Year.",0
+P000014,P000014_S010,"Its failure to win the Best Female Video category, which went to American country pop singer Taylor Swift's ""You Belong with Me"", led to Kanye West interrupting the ceremony and Beyoncé improvising a re-presentation of Swift's award during her own acceptance speech.",1
+P000014,P000014_S011,"In March 2009, Beyoncé embarked on the I Am... World Tour, her second headlining worldwide concert tour, consisting of 108 shows, grossing $119.5 million.",1
+P000015,P000015_S000,"Beyoncé further expanded her acting career, starring as blues singer Etta James in the 2008 musical biopic, Cadillac Records.",1
+P000015,P000015_S001,"Her performance in the film received praise from critics, and she garnered several nominations for her portrayal of James, including a Satellite Award nomination for Best Supporting Actress, and a NAACP Image Award nomination for Outstanding Supporting Actress.",0
+P000015,P000015_S002,"Beyoncé donated her entire salary from the film to Phoenix House, an organization of rehabilitation centers for heroin addicts around the country.",1
+P000015,P000015_S003,"On January 20, 2009, Beyoncé performed James' ""At Last"" at the First Couple's first inaugural ball.",1
+P000015,P000015_S004,"Beyoncé starred opposite Ali Larter and Idris Elba in the thriller, Obsessed.",1
+P000015,P000015_S005,"She played Sharon Charles, a mother and wife who learns of a woman's obsessive behavior over her husband.",1
+P000015,P000015_S006,"Although the film received negative reviews from critics, the movie did well at the US box office, grossing $68 million—$60 million more than Cadillac Records—on a budget of $20 million.",1
+P000015,P000015_S007,The fight scene finale between Sharon and the character played by Ali Larter also won the 2010 MTV Movie Award for Best Fight.,1
+P000016,P000016_S000,"At the 52nd Annual Grammy Awards, Beyoncé received ten nominations, including Album of the Year for I Am... Sasha Fierce, Record of the Year for ""Halo"", and Song of the Year for ""Single Ladies (Put a Ring on It)"", among others.",1
+P000016,P000016_S001,She tied with Lauryn Hill for most Grammy nominations in a single year by a female artist.,1
+P000016,P000016_S002,"In 2010, Beyoncé was featured on Lady Gaga's single ""Telephone"" and its music video.",1
+P000016,P000016_S003,"The song topped the US Pop Songs chart, becoming the sixth number-one for both Beyoncé and Gaga, tying them with Mariah Carey for most number-ones since the Nielsen Top 40 airplay chart launched in 1992.",1
+P000016,P000016_S004,"""Telephone"" received a Grammy Award nomination for Best Pop Collaboration with Vocals.",0
+P000017,P000017_S000,"Beyoncé announced a hiatus from her music career in January 2010, heeding her mother's advice, ""to live life, to be inspired by things again"".",1
+P000017,P000017_S001,During the break she and her father parted ways as business partners.,1
+P000017,P000017_S002,"Beyoncé's musical break lasted nine months and saw her visit multiple European cities, the Great Wall of China, the Egyptian pyramids, Australia, English music festivals and various museums and ballet performances.",1
+P000018,P000018_S000,"In 2011, documents obtained by WikiLeaks revealed that Beyoncé was one of many entertainers who performed for the family of Libyan ruler Muammar Gaddafi.",1
+P000018,P000018_S001,Rolling Stone reported that the music industry was urging them to return the money they earned for the concerts; a spokesperson for Beyoncé later confirmed to The Huffington Post that she donated the money to the Clinton Bush Haiti Fund.,1
+P000018,P000018_S002,"Later that year she became the first solo female artist to headline the main Pyramid stage at the 2011 Glastonbury Festival in over twenty years, and was named the highest-paid performer in the world per minute.",1
+P000019,P000019_S000,"Her fourth studio album 4 was released on June 28, 2011 in the US.",1
+P000019,P000019_S001,"4 sold 310,000 copies in its first week and debuted atop the Billboard 200 chart, giving Beyoncé her fourth consecutive number-one album in the US.",1
+P000019,P000019_S002,"The album was preceded by two of its singles ""Run the World (Girls)"" and ""Best Thing I Never Had"", which both attained moderate success.",0
+P000019,P000019_S003,"The fourth single ""Love on Top"" was a commercial success in the US.",1
+P000019,P000019_S004,"4 also produced four other singles; ""Party"", ""Countdown"", ""I Care"" and ""End of Time"".",0
+P000019,P000019_S005,"""Eat, Play, Love"", a cover story written by Beyoncé for Essence that detailed her 2010 career break, won her a writing award from the New York Association of Black Journalists.",1
+P000019,P000019_S006,"In late 2011, she took the stage at New York's Roseland Ballroom for four nights of special performances: the 4 Intimate Nights with Beyoncé concerts saw the performance of her 4 album to a standing room only.",1
+P000020,P000020_S000,"On January 7, 2012, Beyoncé gave birth to her first child, a daughter, Blue Ivy Carter, at Lenox Hill Hospital in New York.",1
+P000020,P000020_S001,"Five months later, she performed for four nights at Revel Atlantic City's Ovation Hall to celebrate the resort's opening, her first performances since giving birth to Blue Ivy.",1
+P000021,P000021_S000,"In January 2013, Destiny's Child released Love Songs, a compilation album of the romance-themed songs from their previous albums and a newly recorded track, ""Nuclear"".",1
+P000021,P000021_S001,"Beyoncé performed the American national anthem singing along with a pre-recorded track at President Obama's second inauguration in Washington, D.C.",1
+P000021,P000021_S002,"The following month, Beyoncé performed at the Super Bowl XLVII halftime show, held at the Mercedes-Benz Superdome in New Orleans.",1
+P000021,P000021_S003,"The performance stands as the second most tweeted about moment in history at 268,000 tweets per minute.",1
+P000021,P000021_S004,"At the 55th Annual Grammy Awards, Beyoncé won for Best Traditional R&B Performance for ""Love on Top"".",0
+P000021,P000021_S005,"Her feature-length documentary film, Life Is But a Dream, first aired on HBO on February 16, 2013.",1
+P000021,P000021_S006,"The film, which she directed and produced herself, featured footage from her childhood, her as a mother and businesswoman, recording, rehearsing for live performances, and her return to the spotlight following Blue Ivy's birth.",0
+P000021,P000021_S007,"Its DVD release in November 2013 was accompanied by footage from the Revel Presents: Beyoncé Live concerts and a new song, ""God Made You Beautiful"".",0
+P000021,P000021_S008,"In February 2013, Beyoncé signed a global publishing agreement with Warner/Chappell Music, which would cover her future songwriting and then-upcoming studio album.",1
+P000022,P000022_S000,"Beyoncé embarked on The Mrs. Carter Show World Tour on April 15 in Belgrade, Serbia; the tour included 132 dates that ran through to March 2014.",1
+P000022,P000022_S001,It became the most successful tour of her career and one of the most-successful tours of all time.,0
+P000022,P000022_S002,"In May, Beyoncé's cover of Amy Winehouse's ""Back to Black"" with André 3000 on The Great Gatsby soundtrack was released.",1
+P000022,P000022_S003,She was also honorary chair of the 2013 Met Gala.,1
+P000022,P000022_S004,"Beyoncé voiced Queen Tara in the 3D CGI animated film, Epic, released by 20th Century Fox on May 24, and recorded an original song for the film, ""Rise Up"", co-written with Sia.",1
+P000023,P000023_S000,"On December 13, 2013, Beyoncé unexpectedly released her eponymous fifth studio album on the iTunes Store without any prior announcement or promotion.",1
+P000023,P000023_S001,"The album debuted atop the Billboard 200 chart, giving Beyoncé her fifth consecutive number-one album in the US.",0
+P000023,P000023_S002,This made her the first woman in the chart's history to have her first five studio albums debut at number one.,0
+P000023,P000023_S003,"Beyoncé received critical acclaim and commercial success, selling one million digital copies worldwide in six days; The New York Times noted the album's unconventional, unexpected release as significant.",1
+P000023,P000023_S004,"Musically an electro-R&B album, it concerns darker themes previously unexplored in her work, such as ""bulimia, postnatal depression [and] the fears and insecurities of marriage and motherhood"".",0
+P000023,P000023_S005,"The single ""Drunk in Love"", featuring Jay Z, peaked at number two on the Billboard Hot 100 chart.",1
+P000023,P000023_S006,"In April 2014, after much speculation in the weeks before, Beyoncé and Jay Z officially announced their On the Run Tour.",1
+P000023,P000023_S007,It served as the couple's first co-headlining stadium tour together.,0
+P000023,P000023_S008,"On August 24, 2014, she received the Video Vanguard Award at the 2014 MTV Video Music Awards.",0
+P000023,P000023_S009,"Knowles also took home three competitive awards: Best Video with a Social Message and Best Cinematography for ""Pretty Hurts"", as well as best collaboration for ""Drunk in Love"".",0
+P000023,P000023_S010,"In November, Forbes reported that Beyoncé was the top-earning woman in music for the second year in a row—earning $115 million in the year, more than double her earnings in 2013.",1
+P000023,P000023_S011,"Beyoncé was reissued with new material in three forms: as an extended play, a box set, as well as a full platinum edition.",0
+P000024,P000024_S000,"At the 57th Annual Grammy Awards in February 2015, Beyoncé was nominated for six awards, ultimately winning three: Best R&B Performance and Best R&B Song for ""Drunk in Love"", and Best Surround Sound Album for Beyoncé.",1
+P000024,P000024_S001,She was nominated for Album of the Year but the award was won by Beck for his Morning Phase album.,1
+P000024,P000024_S002,"In August, the cover of the September issue of Vogue magazine was unveiled online, Beyoncé as the cover star, becoming the first African-American artist and third African-American woman in general to cover the September issue.",1
+P000024,P000024_S003,She headlined the 2015 Made in America festival in early September and also the Global Citizen Festival later that month.,0
+P000024,P000024_S004,"Beyoncé made an uncredited featured appearance on the track ""Hymn for the Weekend"" by British rock band Coldplay, on their seventh studio album A Head Full of Dreams (2015), which saw release in December.",1
+P000024,P000024_S005,"On January 7, 2016, Pepsi announced Beyoncé would perform alongside Coldplay at Super Bowl 50 in February.",0
+P000024,P000024_S006,"Knowles has previously performed at four Super Bowl shows throughout her career, serving as the main headliner of the 47th Super Bowl halftime show in 2013.",0
+P000025,P000025_S000,"On February 6, 2016, one day before her performance at the Super Bowl, Beyoncé released a new single exclusively on music streaming service Tidal called ""Formation"".",1
+P000026,P000026_S000,"Beyoncé is believed to have first started a relationship with Jay Z after a collaboration on ""'03 Bonnie & Clyde"", which appeared on his seventh album The Blueprint 2: The Gift & The Curse (2002).",1
+P000026,P000026_S001,"Beyoncé appeared as Jay Z's girlfriend in the music video for the song, which would further fuel speculation of their relationship.",0
+P000026,P000026_S002,"On April 4, 2008, Beyoncé and Jay Z were married without publicity.",1
+P000026,P000026_S003,"As of April 2014, the couple have sold a combined 300 million records together.",1
+P000026,P000026_S004,"The couple are known for their private relationship, although they have appeared to become more relaxed in recent years.",0
+P000026,P000026_S005,"Beyoncé suffered a miscarriage in 2010 or 2011, describing it as ""the saddest thing"" she had ever endured.",1
+P000026,P000026_S006,She returned to the studio and wrote music in order to cope with the loss.,1
+P000026,P000026_S007,"In April 2011, Beyoncé and Jay Z traveled to Paris in order to shoot the album cover for her 4, and unexpectedly became pregnant in Paris.",1
+P000027,P000027_S000,"In August, the couple attended the 2011 MTV Video Music Awards, at which Beyoncé performed ""Love on Top"" and started the performance saying ""Tonight I want you to stand up on your feet, I want you to feel the love that's growing inside of me"".",1
+P000027,P000027_S001,"At the end of the performance, she dropped her microphone, unbuttoned her blazer and rubbed her stomach, confirming her pregnancy she had alluded to earlier in the evening.",1
+P000027,P000027_S002,"Her appearance helped that year's MTV Video Music Awards become the most-watched broadcast in MTV history, pulling in 12.4 million viewers; the announcement was listed in Guinness World Records for ""most tweets per second recorded for a single event"" on Twitter, receiving 8,868 tweets per second and ""Beyonce pregnant"" was the most Googled term the week of August 29, 2011.",1
+P000028,P000028_S000,"On January 7, 2012, Beyoncé gave birth to a daughter, Blue Ivy Carter, at Lenox Hill Hospital in New York under heavy security.",1
+P000028,P000028_S001,"Two days later, Jay Z released ""Glory"", a song dedicated to their child, on his website Lifeandtimes.com.",1
+P000028,P000028_S002,"The song detailed the couple's pregnancy struggles, including a miscarriage Beyoncé suffered before becoming pregnant with Blue Ivy.",0
+P000028,P000028_S003,"Blue Ivy's cries are included at the end of the song, and she was officially credited as ""B.I.C.""",1
+P000028,P000028_S004,on it.,0
+P000028,P000028_S005,"At two days old, she became the youngest person ever to appear on a Billboard chart when ""Glory"" debuted on the Hot R&B/Hip-Hop Songs chart.",0
+P000029,P000029_S000,Beyoncé and husband Jay Z are friends with President Barack Obama and First Lady Michelle Obama.,0
+P000029,P000029_S001,"She performed ""America the Beautiful"" at the 2009 presidential inauguration, as well as ""At Last"" during the first inaugural dance at the Neighborhood Ball two days later.",1
+P000029,P000029_S002,Beyoncé and Jay Z held a fundraiser at the latter's 40/40 Club in Manhattan for Obama's 2012 presidential campaign which raised $4 million.,1
+P000029,P000029_S003,"Beyoncé uploaded pictures of her paper ballot on Tumblr, confirming she had voted in support for the Democratic Party and to encourage others to do so.",1
+P000029,P000029_S004,"She also performed the American national anthem at his second inauguration, singing along with a pre-recorded track.",0
+P000029,P000029_S005,"She publicly endorsed same sex marriage on March 26, 2013, after the Supreme Court debate on California's Proposition 8.",1
+P000029,P000029_S006,"In July 2013, Beyoncé and Jay-Z attended a rally in response to the acquittal of George Zimmerman for the shooting of Trayvon Martin.",1
+P000030,P000030_S000,"In an interview published by Vogue in April 2013, Beyoncé was asked if she considers herself a feminist, to which she said, ""that word can be very extreme...",1
+P000030,P000030_S001,But I guess I am a modern-day feminist.,0
+P000030,P000030_S002,"I do believe in equality"".",0
+P000030,P000030_S003,"She would later align herself more publicly with the movement, sampling ""We should all be feminists"", a speech delivered by Nigerian author Chimamanda Ngozi Adichie at a TEDxEuston conference in April 2013, in her song ""Flawless"", released later that year.",1
+P000030,P000030_S004,"She has also contributed to the Ban Bossy campaign, which uses television and social media to encourage leadership in girls.",1
+P000031,P000031_S000,"In 2015 Beyoncé signed an open letter which the ONE Campaign had been collecting signatures for; the letter was addressed to Angela Merkel and Nkosazana Dlamini-Zuma, urging them to focus on women as they serve as the head of the G7 in Germany and the AU in South Africa respectively, which will start to set the priorities in development funding before a main UN summit in September 2015 that will establish new development goals for the generation.",1
+P000032,P000032_S000,"Following the death of Freddie Gray, Beyoncé and Jay-Z, among other notable figures, met with his family.",1
+P000032,P000032_S001,"After the imprisonment of protesters of Gray's death, Beyoncé and Jay-Z donated thousands of dollars to bail them out.",1
+P000033,P000033_S000,"Forbes magazine began reporting on Beyoncé's earnings in 2008, calculating that the $80 million earned between June 2007 to June 2008, for her music, tour, films and clothing line made her the world's best-paid music personality at the time, above Madonna and Celine Dion.",1
+P000033,P000033_S001,"They placed her fourth on the Celebrity 100 list in 2009 and ninth on the ""Most Powerful Women in the World"" list in 2010.",0
+P000033,P000033_S002,"The following year, Forbes placed her eighth on the ""Best-Paid Celebrities Under 30"" list, having earned $35 million in the past year for her clothing line and endorsement deals.",0
+P000033,P000033_S003,"In 2012, Forbes placed Beyoncé at number 16 on the Celebrity 100 list, twelve places lower than three years ago yet still having earned $40 million in the past year for her album 4, clothing line and endorsement deals.",0
+P000033,P000033_S004,"In the same year, Beyoncé and Jay Z placed at number one on the ""World's Highest-Paid Celebrity Couples"", for collectively earning $78 million.",0
+P000033,P000033_S005,"The couple made it into the previous year's Guinness World Records as the ""highest-earning power couple"" for collectively earning $122 million in 2009.",1
+P000033,P000033_S006,"For the years 2009 to 2011, Beyoncé earned an average of $70 million per year, and earned $40 million in 2012.",1
+P000033,P000033_S007,"In 2013, Beyoncé's endorsements of Pepsi and H&M made her and Jay Z the world's first billion dollar couple in the music industry.",1
+P000033,P000033_S008,"That year, Beyoncé was published as the fourth most-powerful celebrity in the Forbes rankings.",0
+P000033,P000033_S009,"MTV estimated that by the end of 2014, Beyoncé would become the highest-paid black musician in history; she succeeded to do so in April 2014.",1
+P000033,P000033_S010,"In June 2014, Beyoncé ranked at #1 on the Forbes Celebrity 100 list, earning an estimated $115 million throughout June 2013 – June 2014.",1
+P000033,P000033_S011,This in turn was the first time she had topped the Celebrity 100 list as well as being her highest yearly earnings to date.,0
+P000033,P000033_S012,"As of May 2015, her net worth is estimated to be $250 million.",1
+P000034,P000034_S000,Beyoncé's vocal range spans four octaves.,1
+P000034,P000034_S001,"Jody Rosen highlights her tone and timbre as particularly distinctive, describing her voice as ""one of the most compelling instruments in popular music"".",1
+P000034,P000034_S002,"While another critic says she is a ""Vocal acrobat, being able to sing long and complex melismas and vocal runs effortlessly, and in key.",0
+P000034,P000034_S003,Her vocal abilities mean she is identified as the centerpiece of Destiny's Child.,1
+P000034,P000034_S004,"The Daily Mail calls Beyoncé's voice ""versatile"", capable of exploring power ballads, soul, rock belting, operatic flourishes, and hip hop.",1
+P000034,P000034_S005,"Jon Pareles of The New York Times commented that her voice is ""velvety yet tart, with an insistent flutter and reserves of soul belting"".",1
+P000034,P000034_S006,"Rosen notes that the hip hop era highly influenced Beyoncé's strange rhythmic vocal style, but also finds her quite traditionalist in her use of balladry, gospel and falsetto.",1
+P000034,P000034_S007,"Other critics praise her range and power, with Chris Richards of The Washington Post saying she was ""capable of punctuating any beat with goose-bump-inducing whispers or full-bore diva-roars.""",1
+P000035,P000035_S000,"Beyoncé's music is generally R&B, but she also incorporates pop, soul and funk into her songs.",1
+P000035,P000035_S001,"4 demonstrated Beyoncé's exploration of 90s-style R&B, as well as further use of soul and hip hop than compared to previous releases.",0
+P000035,P000035_S002,"While she almost exclusively releases English songs, Beyoncé recorded several Spanish songs for Irreemplazable (re-recordings of songs from B'Day for a Spanish-language audience), and the re-release of B'Day.",1
+P000035,P000035_S003,"To record these, Beyoncé was coached phonetically by American record producer Rudy Perez.",1
+P000036,P000036_S000,She has received co-writing credits for most of the songs recorded with Destiny's Child and her solo efforts.,0
+P000036,P000036_S001,"Her early songs were personally driven and female-empowerment themed compositions like ""Independent Women"" and ""Survivor"", but after the start of her relationship with Jay Z she transitioned to more man-tending anthems such as ""Cater 2 U"".",1
+P000036,P000036_S002,"Beyoncé has also received co-producing credits for most of the records in which she has been involved, especially during her solo efforts.",1
+P000036,P000036_S003,"However, she does not formulate beats herself, but typically comes up with melodies and ideas during production, sharing them with producers.",1
+P000037,P000037_S000,"In 2001, she became the first African-American woman and second woman songwriter to win the Pop Songwriter of the Year award at the American Society of Composers, Authors, and Publishers Pop Music Awards.",1
+P000037,P000037_S001,"Beyoncé was the third woman to have writing credits on three number one songs (""Irreplaceable"", ""Grillz"" and ""Check on It"") in the same year, after Carole King in 1971 and Mariah Carey in 1991.",1
+P000037,P000037_S002,She is tied with American songwriter Diane Warren at third with nine songwriting credits on number-one singles.,1
+P000037,P000037_S003,"(The latter wrote her 9/11-motivated song ""I Was Here"" for 4.)",0
+P000037,P000037_S004,"In May 2011, Billboard magazine listed Beyoncé at number 17 on their list of the ""Top 20 Hot 100 Songwriters"", for having co-written eight singles that hit number one on the Billboard Hot 100 chart.",1
+P000037,P000037_S005,She was one of only three women on that list.,0
+P000038,P000038_S000,Beyoncé names Michael Jackson as her major musical influence.,1
+P000038,P000038_S001,"Aged five, Beyoncé attended her first ever concert where Jackson performed and she claims to have realised her purpose.",1
+P000038,P000038_S002,"When she presented him with a tribute award at the World Music Awards in 2006, Beyoncé said, ""if it wasn't for Michael Jackson, I would never ever have performed.""",0
+P000038,P000038_S003,"She admires Diana Ross as an ""all-around entertainer"" and Whitney Houston, who she said ""inspired me to get up there and do what she did.""",1
+P000038,P000038_S004,"She credits Mariah Carey's singing and her song ""Vision of Love"" as influencing her to begin practicing vocal runs as a child.",1
+P000038,P000038_S005,"Her other musical influences include Aaliyah, Prince, Lauryn Hill, Sade Adu, Donna Summer, Mary J. Blige, Janet Jackson, Anita Baker and Rachelle Ferrell.",0
+P000039,P000039_S000,The feminism and female empowerment themes on Beyoncé's second solo album B'Day were inspired by her role in Dreamgirls and by singer Josephine Baker.,1
+P000039,P000039_S001,"Beyoncé paid homage to Baker by performing ""Déjà Vu"" at the 2006 Fashion Rocks concert wearing Baker's trademark mini-hula skirt embellished with fake bananas.",1
+P000039,P000039_S002,"Beyoncé's third solo album I Am... Sasha Fierce was inspired by Jay Z and especially by Etta James, whose ""boldness"" inspired Beyoncé to explore other musical genres and styles.",1
+P000039,P000039_S003,"Her fourth solo album, 4, was inspired by Fela Kuti, 1990s R&B, Earth, Wind & Fire, DeBarge, Lionel Richie, Teena Marie with additional influences by The Jackson 5, New Edition, Adele, Florence and the Machine, and Prince.",0
+P000040,P000040_S000,"Beyoncé has stated that she is personally inspired by US First Lady Michelle Obama, saying ""She proves you can do it all"" and she has described Oprah Winfrey as ""the definition of inspiration and a strong woman"".",1
+P000040,P000040_S001,"She has also discussed how Jay Z is a continuing inspiration to her, both with what she describes as his lyrical genius and in the obstacles he has overcome in his life.",1
+P000040,P000040_S002,"Beyoncé has expressed admiration for the artist Jean-Michel Basquiat, posting in a letter ""what I find in the work of Jean-Michel Basquiat, I search for in every day in music... he is lyrical and raw"".",1
+P000040,P000040_S003,"In February 2013, Beyoncé said that Madonna inspired her to take control of her own career.",1
+P000040,P000040_S004,"She commented: ""I think about Madonna and how she took all of the great things she achieved and started the label and developed other artists.",0
+P000040,P000040_S005,But there are not enough of those women.,0
+P000041,P000041_S000,"In 2006, Beyoncé introduced her all-female tour band Suga Mama (also the name of a song in B'Day) which includes bassists, drummers, guitarists, horn players, keyboardists and percussionists.",1
+P000041,P000041_S001,"Her background singers, The Mamas, consist of Montina Cooper-Donnell, Crystal Collins and Tiffany Moniqué Riddick.",1
+P000041,P000041_S002,"They made their debut appearance at the 2006 BET Awards and re-appeared in the music videos for ""Irreplaceable"" and ""Green Light"".",1
+P000041,P000041_S003,"The band have supported Beyoncé in most subsequent live performances, including her 2007 concert tour The Beyoncé Experience, 2009–2010 I Am... World Tour and 2013–2014 The Mrs. Carter Show World Tour.",0
+P000042,P000042_S000,Beyoncé has received praise for her stage presence and voice during live performances.,1
+P000042,P000042_S001,Jarett Wieselman of the New York Post placed her at number one on her list of the Five Best Singer/Dancers.,1
+P000042,P000042_S002,"According to Barbara Ellen of The Guardian Beyoncé is the most in-charge female artist she's seen onstage, while Alice Jones of The Independent wrote she ""takes her role as entertainer so seriously she's almost too good.""",1
+P000042,P000042_S003,The ex-President of Def Jam L.A. Reid has described Beyoncé as the greatest entertainer alive.,1
+P000042,P000042_S004,Jim Farber of the Daily News and Stephanie Classen of Star Phoenix both praised her strong voice and her stage presence.,0
+P000043,P000043_S000,"Described as being ""sexy, seductive and provocative"" when performing on stage, Beyoncé has said that she originally created the alter ego ""Sasha Fierce"" to keep that stage persona separate from who she really is.",1
+P000043,P000043_S001,"She described Sasha as being ""too aggressive, too strong, too sassy [and] too sexy"", stating, ""I'm not like her in real life at all.""",1
+P000043,P000043_S002,"Sasha was conceived during the making of ""Crazy in Love"", and Beyoncé introduced her with the release of her 2008 album I Am... Sasha Fierce.",1
+P000043,P000043_S003,"In February 2010, she announced in an interview with Allure magazine that she was comfortable enough with herself to no longer need Sasha Fierce.",1
+P000043,P000043_S004,"However, Beyoncé announced in May 2012 that she would bring her back for her Revel Presents: Beyoncé Live shows later that month.",1
+P000044,P000044_S000,"Beyoncé has been described as a having a wide-ranging sex appeal, with music journalist Touré writing that since the release of Dangerously in Love, she has ""become a crossover sex symbol"".",1
+P000044,P000044_S001,"Offstage Beyoncé says that while she likes to dress sexily, her onstage dress ""is absolutely for the stage.""",1
+P000044,P000044_S002,"Due to her curves and the term's catchiness, in the 2000s, the media often used the term ""Bootylicious"" (a portmanteau of the words booty and delicious) to describe Beyoncé, the term popularized by Destiny's Child's single of the same name.",1
+P000044,P000044_S003,"In 2006, it was added to the Oxford English Dictionary.",1
+P000045,P000045_S000,"In September 2010, Beyoncé made her runway modelling debut at Tom Ford's Spring/Summer 2011 fashion show.",1
+P000045,P000045_S001,"She was named ""World's Most Beautiful Woman"" by People and the ""Hottest Female Singer of All Time"" by Complex in 2012.",1
+P000045,P000045_S002,"In January 2013, GQ placed her on its cover, featuring her atop its ""100 Sexiest Women of the 21st Century"" list.",1
+P000045,P000045_S003,VH1 listed her at number 1 on its 100 Sexiest Artists list.,1
+P000045,P000045_S004,"Several wax figures of Beyoncé are found at Madame Tussauds Wax Museums in major cities around the world, including New York, Washington, D.C., Amsterdam, Bangkok, Hollywood and Sydney.",1
+P000046,P000046_S000,"According to Italian fashion designer Roberto Cavalli, Beyoncé uses different fashion styles to work with her music while performing.",0
+P000046,P000046_S001,"Her mother co-wrote a book, published in 2002, titled Destiny's Style an account of how fashion had an impact on the trio's success.",1
+P000046,P000046_S002,"The B'Day Anthology Video Album showed many instances of fashion-oriented footage, depicting classic to contemporary wardrobe styles.",0
+P000046,P000046_S003,"In 2007, Beyoncé was featured on the cover of the Sports Illustrated Swimsuit Issue, becoming the second African American woman after Tyra Banks, and People magazine recognized Beyoncé as the best-dressed celebrity.",1
+P000047,P000047_S000,The Bey Hive is the name given to Beyoncé's fan base.,1
+P000047,P000047_S001,"Fans were previously titled ""The Beyontourage"", (a portmanteau of Beyoncé and entourage).",1
+P000047,P000047_S002,"The name Bey Hive derives from the word beehive, purposely misspelled to resemble her first name, and was penned by fans after petitions on the online social networking service Twitter and online news reports during competitions.",1
+P000048,P000048_S000,"In 2006, the animal rights organization People for the Ethical Treatment of Animals (PETA), criticized Beyoncé for wearing and using fur in her clothing line House of Deréon.",1
+P000048,P000048_S001,"In 2011, she appeared on the cover of French fashion magazine L'Officiel, in blackface and tribal makeup that drew criticism from the media.",1
+P000048,P000048_S002,"A statement released from a spokesperson for the magazine said that Beyoncé's look was ""far from the glamorous Sasha Fierce"" and that it was ""a return to her African roots"".",0
+P000049,P000049_S000,Beyoncé's lighter skin color and costuming has drawn criticism from some in the African-American community.,1
+P000049,P000049_S001,"Emmett Price, a professor of music at Northeastern University, wrote in 2007, that he thinks race plays a role in many of these criticisms, saying white celebrities who dress similarly do not attract as many comments.",1
+P000049,P000049_S002,"In 2008, L'Oréal was accused of whitening her skin in their Feria hair color advertisements, responding that ""it is categorically untrue"", and in 2013, Beyoncé herself criticized H&M for their proposed ""retouching"" of promotional images of her, and according to Vogue requested that only ""natural pictures be used"".",1
+P000050,P000050_S000,"In The New Yorker music critic Jody Rosen described Beyoncé as ""the most important and compelling popular musician of the twenty-first century..... the result, the logical end point, of a century-plus of pop.""",1
+P000050,P000050_S001,"When The Guardian named her Artist of the Decade, Llewyn-Smith wrote, ""Why Beyoncé?",1
+P000050,P000050_S002,"[...] Because she made not one but two of the decade's greatest singles, with Crazy in Love and Single Ladies (Put a Ring on It), not to mention her hits with Destiny's Child; and this was the decade when singles – particularly R&B singles – regained their status as pop's favourite medium.",0
+P000050,P000050_S003,"[...] [She] and not any superannuated rock star was arguably the greatest live performer of the past 10 years.""",0
+P000050,P000050_S004,"In 2013, Beyoncé made the Time 100 list, Baz Luhrmann writing ""no one has that voice, no one moves the way she moves, no one can hold an audience the way she does...",1
+P000050,P000050_S005,"When Beyoncé does an album, when Beyoncé sings a song, when Beyoncé does anything, it's an event, and it's broadly influential.",0
+P000050,P000050_S006,"Right now, she is the heir-apparent diva of the USA — the reigning national voice.""",0
+P000050,P000050_S007,"In 2014, Beyoncé was listed again on the Time 100 and also featured on the cover of the issue.",1
+P000051,P000051_S000,"Beyoncé's work has influenced numerous artists including Adele, Ariana Grande, Lady Gaga, Bridgit Mendler, Rihanna, Kelly Rowland, Sam Smith, Meghan Trainor, Nicole Scherzinger, Rita Ora, Zendaya, Cheryl Cole, JoJo, Alexis Jordan, Jessica Sanchez, and Azealia Banks.",1
+P000051,P000051_S001,"American indie rock band White Rabbits also cited her an inspiration for their third album Milk Famous (2012), friend Gwyneth Paltrow studied Beyoncé at her live concerts while learning to become a musical performer for the 2010 film Country Strong.",1
+P000051,P000051_S002,Nicki Minaj has stated that seeing Beyoncé's Pepsi commercial influenced her decision to appear in the company's 2012 global campaign.,1
+P000052,P000052_S000,"Her debut single, ""Crazy in Love"" was named VH1's ""Greatest Song of the 2000s"", NME's ""Best Track of the 00s"" and ""Pop Song of the Century"", considered by Rolling Stone to be one of the 500 greatest songs of all time, earned two Grammy Awards and is one of the best-selling singles of all time at around 8 million copies.",1
+P000052,P000052_S001,"The music video for ""Single Ladies (Put a Ring on It)"", which achieved fame for its intricate choreography and its deployment of jazz hands, was credited by the Toronto Star as having started the ""first major dance craze of both the new millennium and the Internet"", triggering a number of parodies of the dance choreography and a legion of amateur imitators on YouTube.",0
+P000052,P000052_S002,"In 2013, Drake released a single titled ""Girls Love Beyoncé"", which featured an interpolation from Destiny Child's ""Say My Name"" and discussed his relationship with women.",1
+P000052,P000052_S003,"In January 2012, research scientist Bryan Lessard named Scaptia beyonceae, a species of horse fly found in Northern Queensland, Australia after Beyoncé due to the fly's unique golden hairs on its abdomen.",1
+P000052,P000052_S004,"In July 2014, a Beyoncé exhibit was introduced into the ""Legends of Rock"" section of the Rock and Roll Hall of Fame.",1
+P000052,P000052_S005,"The black leotard from the ""Single Ladies"" video and her outfit from the Super Bowl half time performance are among several pieces housed at the museum.",0
+P000053,P000053_S000,Beyoncé has received numerous awards.,1
+P000053,P000053_S001,"As a solo artist she has sold over 15 million albums in the US, and over 118 million records worldwide (a further 60 million additionally with Destiny's Child), making her one of the best-selling music artists of all time.",1
+P000053,P000053_S002,"The Recording Industry Association of America (RIAA) listed Beyoncé as the top certified artist of the 2000s, with a total of 64 certifications.",1
+P000053,P000053_S003,"Her songs ""Crazy in Love"", ""Single Ladies (Put a Ring on It)"", ""Halo"", and ""Irreplaceable"" are some of the best-selling singles of all time worldwide.",0
+P000053,P000053_S004,"In 2009, The Observer named her the Artist of the Decade and Billboard named her the Top Female Artist and Top Radio Songs Artist of the Decade.",0
+P000053,P000053_S005,"In 2010, Billboard named her in their ""Top 50 R&B/Hip-Hop Artists of the Past 25 Years"" list at number 15.",0
+P000053,P000053_S006,"In 2012 VH1 ranked her third on their list of the ""100 Greatest Women in Music"".",0
+P000053,P000053_S007,Beyoncé was the first female artist to be honored with the International Artist Award at the American Music Awards.,0
+P000053,P000053_S008,She has also received the Legend Award at the 2008 World Music Awards and the Billboard Millennium Award at the 2011 Billboard Music Awards.,1
+P000054,P000054_S000,"Beyoncé has won 20 Grammy Awards, both as a solo artist and member of Destiny's Child, making her the second most honored female artist by the Grammys, behind Alison Krauss and the most nominated woman in Grammy Award history with 52 nominations.",1
+P000054,P000054_S001,"""Single Ladies (Put a Ring on It)"" won Song of the Year in 2010 while ""Say My Name"" and ""Crazy in Love"" had previously won Best R&B Song.",1
+P000054,P000054_S002,"Dangerously in Love, B'Day and I Am... Sasha Fierce have all won Best Contemporary R&B Album.",0
+P000054,P000054_S003,"Beyoncé set the record for the most Grammy awards won by a female artist in one night in 2010 when she won six awards, breaking the tie she previously held with Alicia Keys, Norah Jones, Alison Krauss, and Amy Winehouse, with Adele equaling this in 2012.",1
+P000054,P000054_S004,"Following her role in Dreamgirls she was nominated for Best Original Song for ""Listen"" and Best Actress at the Golden Globe Awards, and Outstanding Actress in a Motion Picture at the NAACP Image Awards.",1
+P000054,P000054_S005,"Beyoncé won two awards at the Broadcast Film Critics Association Awards 2006; Best Song for ""Listen"" and Best Original Soundtrack for Dreamgirls: Music from the Motion Picture.",1
+P000055,P000055_S000,"Beyoncé has worked with Pepsi since 2002, and in 2004 appeared in a Gladiator-themed commercial with Britney Spears, Pink, and Enrique Iglesias.",1
+P000055,P000055_S001,"In 2012, Beyoncé signed a $50 million deal to endorse Pepsi.",1
+P000055,P000055_S002,The Center for Science in the Public Interest (CSPINET) wrote Beyoncé an open letter asking her to reconsider the deal because of the unhealthiness of the product and to donate the proceeds to a medical organisation.,1
+P000055,P000055_S003,"Nevertheless, NetBase found that Beyoncé's campaign was the most talked about endorsement in April 2013, with a 70 per cent positive audience response to the commercial and print ads.",1
+P000056,P000056_S000,"Beyoncé has worked with Tommy Hilfiger for the fragrances True Star (singing a cover version of ""Wishing on a Star"") and True Star Gold; she also promoted Emporio Armani's Diamonds fragrance in 2007.",1
+P000056,P000056_S001,"Beyoncé launched her first official fragrance, Heat in 2010.",1
+P000056,P000056_S002,"The commercial, which featured the 1956 song ""Fever"", was shown after the water shed in the United Kingdom as it begins with an image of Beyoncé appearing to lie naked in a room.",0
+P000056,P000056_S003,"In February 2011, Beyoncé launched her second fragrance, Heat Rush.",1
+P000056,P000056_S004,"Beyoncé's third fragrance, Pulse, was launched in September 2011.",1
+P000056,P000056_S005,"In 2013, The Mrs. Carter Show Limited Edition version of Heat was released.",1
+P000056,P000056_S006,"The six editions of Heat are the world's best-selling celebrity fragrance line, with sales of over $400 million.",1
+P000057,P000057_S000,The release of a video-game Starpower: Beyoncé was cancelled after Beyoncé pulled out of a $100 million with GateFive who alleged the cancellation meant the sacking of 70 staff and millions of pounds lost in development.,1
+P000057,P000057_S001,It was settled out of court by her lawyers in June 2013 who said that they had cancelled because GateFive had lost its financial backers.,1
+P000057,P000057_S002,"Beyoncé also has had deals with American Express, Nintendo DS and L'Oréal since the age of 18.",1
+P000058,P000058_S000,"In October 2014, it was announced that Beyoncé with her management company Parkwood Entertainment would be partnering with London-based fashion retailer Topshop, in a new 50/50 split subsidiary business named Parkwood Topshop Athletic Ltd.",1
+P000058,P000058_S001,"The new division was created for Topshop to break into the activewear market, with an athletic, street wear brand being produced.",1
+P000058,P000058_S002,"""Creating a partnership with Beyoncé, one of the most hard-working and talented people in the world, who spends many hours of her life dancing, rehearsing and training is a unique opportunity to develop this category"" stated Sir Philip Green on the partnership.",0
+P000058,P000058_S003,The company and collection is set to launch and hit stores in the fall of 2015.,1
+P000059,P000059_S000,"On March 30, 2015, it was announced that Beyoncé is a co-owner, with various other music artists, in the music streaming service Tidal.",1
+P000059,P000059_S001,The service specialises in lossless audio and high definition music videos.,0
+P000059,P000059_S002,"Beyoncé's husband Jay Z acquired the parent company of Tidal, Aspiro, in the first quarter of 2015.",1
+P000059,P000059_S003,"Including Beyoncé and Jay-Z, sixteen artist stakeholders (such as Kanye West, Rihanna, Madonna, Chris Martin, Nicki Minaj and more) co-own Tidal, with the majority owning a 3% equity stake.",0
+P000059,P000059_S004,"The idea of having an all artist owned streaming service was created by those involved to adapt to the increased demand for streaming within the current music industry, and to rival other streaming services such as Spotify, which have been criticised for their low payout of royalties.",1
+P000059,P000059_S005,"""The challenge is to get everyone to respect music again, to recognize its value"", stated Jay-Z on the release of Tidal.",0
+P000060,P000060_S000,"Beyoncé and her mother introduced House of Deréon, a contemporary women's fashion line, in 2005.",1
+P000060,P000060_S001,"The concept is inspired by three generations of women in their family, the name paying tribute to Beyoncé's grandmother, Agnèz Deréon, a respected seamstress.",1
+P000060,P000060_S002,"According to Tina, the overall style of the line best reflects her and Beyoncé's taste and style.",0
+P000060,P000060_S003,"Beyoncé and her mother founded their family's company Beyond Productions, which provides the licensing and brand management for House of Deréon, and its junior collection, Deréon.",1
+P000060,P000060_S004,"House of Deréon pieces were exhibited in Destiny's Child's shows and tours, during their Destiny Fulfilled era.",1
+P000060,P000060_S005,"The collection features sportswear, denim offerings with fur, outerwear and accessories that include handbags and footwear, and are available at department and specialty stores across the US and Canada.",1
+P000061,P000061_S000,"In 2005, Beyoncé teamed up with House of Brands, a shoe company, to produce a range of footwear for House of Deréon.",1
+P000061,P000061_S001,"In January 2008, Starwave Mobile launched Beyoncé Fashion Diva, a ""high-style"" mobile game with a social networking component, featuring the House of Deréon collection.",1
+P000061,P000061_S002,"In July 2009, Beyoncé and her mother launched a new junior apparel label, Sasha Fierce for Deréon, for back-to-school selling.",1
+P000061,P000061_S003,"The collection included sportswear, outerwear, handbags, footwear, eyewear, lingerie and jewelry.",0
+P000061,P000061_S004,"It was available at department stores including Macy's and Dillard's, and specialty stores Jimmy Jazz and Against All Odds.",1
+P000061,P000061_S005,"On May 27, 2010, Beyoncé teamed up with clothing store C&A to launch Deréon by Beyoncé at their stores in Brazil.",1
+P000061,P000061_S006,"The collection included tailored blazers with padded shoulders, little black dresses, embroidered tops and shirts and bandage dresses.",0
+P000062,P000062_S000,"In October 2014, Beyoncé signed a deal to launch an activewear line of clothing with British fashion retailer Topshop.",1
+P000062,P000062_S001,"The 50-50 venture is called Parkwood Topshop Athletic Ltd and is scheduled to launch its first dance, fitness and sports ranges in autumn 2015.",1
+P000062,P000062_S002,The line will launch in April 2016.,1
+P000063,P000063_S000,"After Hurricane Katrina in 2005, Beyoncé and Rowland founded the Survivor Foundation to provide transitional housing for victims in the Houston area, to which Beyoncé contributed an initial $250,000.",1
+P000063,P000063_S001,"The foundation has since expanded to work with other charities in the city, and also provided relief following Hurricane Ike three years later.",1
+P000064,P000064_S000,"Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA ""Fashion For Haiti"" T-shirt, made by Theory which raised a total of $1 million.",1
+P000064,P000064_S001,"On March 5, 2010, Beyoncé and her mother Tina opened the Beyoncé Cosmetology Center at the Brooklyn Phoenix House, offering a seven-month cosmetology training course for men and women.",1
+P000064,P000064_S002,"In April 2011, Beyoncé joined forces with US First Lady Michelle Obama and the National Association of Broadcasters Education Foundation, to help boost the latter's campaign against child obesity by reworking her single ""Get Me Bodied"".",0
+P000064,P000064_S003,"Following the death of Osama bin Laden, Beyoncé released her cover of the Lee Greenwood song ""God Bless the USA"", as a charity single to help raise funds for the New York Police and Fire Widows' and Children's Benefit Fund.",1
+P000065,P000065_S000,"In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for ""Demand A Plan"", a bipartisan effort by a group of 950 US mayors and others designed to influence the federal government into rethinking its gun control laws, following the Sandy Hook Elementary School shooting.",1
+P000065,P000065_S001,"Beyoncé became an ambassador for the 2012 World Humanitarian Day campaign donating her song ""I Was Here"" and its music video, shot in the UN, to the campaign.",1
+P000065,P000065_S002,"In 2013, it was announced that Beyoncé would work with Salma Hayek and Frida Giannini on a Gucci ""Chime for Change"" campaign that aims to spread female empowerment.",1
+P000065,P000065_S003,"The campaign, which aired on February 28, was set to her new music.",0
+P000065,P000065_S004,"A concert for the cause took place on June 1, 2013 in London and included other acts like Ellie Goulding, Florence and the Machine, and Rita Ora.",1
+P000065,P000065_S005,"In advance of the concert, she appeared in a campaign video released on 15 May 2013, where she, along with Cameron Diaz, John Legend and Kylie Minogue, described inspiration from their mothers, while a number of other artists celebrated personal inspiration from other women, leading to a call for submission of photos of women of viewers' inspiration from which a selection was shown at the concert.",0
+P000065,P000065_S006,"Beyoncé said about her mother Tina Knowles that her gift was ""finding the best qualities in every human being.""",1
+P000065,P000065_S007,"With help of the crowdfunding platform Catapult, visitors of the concert could choose between several projects promoting education of women and girls.",1
+P000065,P000065_S008,"Beyoncé is also taking part in ""Miss a Meal"", a food-donation campaign, and supporting Goodwill charity through online charity auctions at Charitybuzz that support job creation throughout Europe and the U.S.",1
+P000066,P000066_S000,"Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French (by citizenship and birth of father) composer and a virtuoso pianist of the Romantic era, who wrote primarily for the solo piano.",1
+P000066,P000066_S001,"He gained and has maintained renown worldwide as one of the leading musicians of his era, whose ""poetic genius was based on a professional technique that was without equal in his generation.""",0
+P000066,P000066_S002,"Chopin was born in what was then the Duchy of Warsaw, and grew up in Warsaw, which after 1815 became part of Congress Poland.",1
+P000066,P000066_S003,"A child prodigy, he completed his musical education and composed his earlier works in Warsaw before leaving Poland at the age of 20, less than a month before the outbreak of the November 1830 Uprising.",1
+P000067,P000067_S000,At the age of 21 he settled in Paris.,1
+P000067,P000067_S001,"Thereafter, during the last 18 years of his life, he gave only some 30 public performances, preferring the more intimate atmosphere of the salon.",1
+P000067,P000067_S002,"He supported himself by selling his compositions and teaching piano, for which he was in high demand.",0
+P000067,P000067_S003,"Chopin formed a friendship with Franz Liszt and was admired by many of his musical contemporaries, including Robert Schumann.",1
+P000067,P000067_S004,In 1835 he obtained French citizenship.,1
+P000067,P000067_S005,"After a failed engagement to Maria Wodzińska, from 1837 to 1847 he maintained an often troubled relationship with the French writer George Sand.",1
+P000067,P000067_S006,A brief and unhappy visit to Majorca with Sand in 1838–39 was one of his most productive periods of composition.,1
+P000067,P000067_S007,"In his last years, he was financially supported by his admirer Jane Stirling, who also arranged for him to visit Scotland in 1848.",1
+P000067,P000067_S008,"Through most of his life, Chopin suffered from poor health.",0
+P000067,P000067_S009,"He died in Paris in 1849, probably of tuberculosis.",1
+P000068,P000068_S000,All of Chopin's compositions include the piano.,1
+P000068,P000068_S001,"Most are for solo piano, though he also wrote two piano concertos, a few chamber pieces, and some songs to Polish lyrics.",1
+P000068,P000068_S002,His keyboard style is highly individual and often technically demanding; his own performances were noted for their nuance and sensitivity.,1
+P000068,P000068_S003,Chopin invented the concept of instrumental ballade.,1
+P000068,P000068_S004,"His major piano works also include mazurkas, waltzes, nocturnes, polonaises, études, impromptus, scherzos, preludes and sonatas, some published only after his death.",0
+P000068,P000068_S005,"Influences on his compositional style include Polish folk music, the classical tradition of J. S. Bach, Mozart and Schubert, the music of all of whom he admired, as well as the Paris salons where he was a frequent guest.",1
+P000068,P000068_S006,"His innovations in style, musical form, and harmony, and his association of music with nationalism, were influential throughout and after the late Romantic period.",0
+P000069,P000069_S000,"In his native Poland, in France, where he composed most of his works, and beyond, Chopin's music, his status as one of music's earliest superstars, his association (if only indirect) with political insurrection, his love life and his early death have made him, in the public consciousness, a leading symbol of the Romantic era.",1
+P000069,P000069_S001,"His works remain popular, and he has been the subject of numerous films and biographies of varying degrees of historical accuracy.",1
+P000070,P000070_S000,"Fryderyk Chopin was born in Żelazowa Wola, 46 kilometres (29 miles) west of Warsaw, in what was then the Duchy of Warsaw, a Polish state established by Napoleon.",1
+P000070,P000070_S001,"The parish baptismal record gives his birthday as 22 February 1810, and cites his given names in the Latin form Fridericus Franciscus (in Polish, he was Fryderyk Franciszek).",1
+P000070,P000070_S002,"However, the composer and his family used the birthdate 1 March,[n 2] which is now generally accepted as the correct date.",1
+P000071,P000071_S000,"Fryderyk's father, Nicolas Chopin, was a Frenchman from Lorraine who had emigrated to Poland in 1787 at the age of sixteen.",1
+P000071,P000071_S001,"Nicolas tutored children of the Polish aristocracy, and in 1806 married Justyna Krzyżanowska, a poor relative of the Skarbeks, one of the families for whom he worked.",1
+P000071,P000071_S002,"Fryderyk was baptized on Easter Sunday, 23 April 1810, in the same church where his parents had married, in Brochów.",1
+P000071,P000071_S003,"His eighteen-year-old godfather, for whom he was named, was Fryderyk Skarbek, a pupil of Nicolas Chopin.",1
+P000071,P000071_S004,"Fryderyk was the couple's second child and only son; he had an elder sister, Ludwika (1807–55), and two younger sisters, Izabela (1811–81) and Emilia (1812–27).",1
+P000071,P000071_S005,"Nicolas was devoted to his adopted homeland, and insisted on the use of the Polish language in the household.",0
+P000072,P000072_S000,"In October 1810, six months after Fryderyk's birth, the family moved to Warsaw, where his father acquired a post teaching French at the Warsaw Lyceum, then housed in the Saxon Palace.",1
+P000072,P000072_S001,Fryderyk lived with his family in the Palace grounds.,1
+P000072,P000072_S002,The father played the flute and violin; the mother played the piano and gave lessons to boys in the boarding house that the Chopins kept.,1
+P000072,P000072_S003,"Chopin was of slight build, and even in early childhood was prone to illnesses.",1
+P000073,P000073_S000,"Fryderyk may have had some piano instruction from his mother, but his first professional music tutor, from 1816 to 1821, was the Czech pianist Wojciech Żywny.",1
+P000073,P000073_S001,"His elder sister Ludwika also took lessons from Żywny, and occasionally played duets with her brother.",1
+P000073,P000073_S002,It quickly became apparent that he was a child prodigy.,0
+P000073,P000073_S003,"By the age of seven Fryderyk had begun giving public concerts, and in 1817 he composed two polonaises, in G minor and B-flat major.",1
+P000073,P000073_S004,"His next work, a polonaise in A-flat major of 1821, dedicated to Żywny, is his earliest surviving musical manuscript.",1
+P000074,P000074_S000,"In 1817 the Saxon Palace was requisitioned by Warsaw's Russian governor for military use, and the Warsaw Lyceum was reestablished in the Kazimierz Palace (today the rectorate of Warsaw University).",1
+P000074,P000074_S001,"Fryderyk and his family moved to a building, which still survives, adjacent to the Kazimierz Palace.",0
+P000074,P000074_S002,"During this period, Fryderyk was sometimes invited to the Belweder Palace as playmate to the son of the ruler of Russian Poland, Grand Duke Constantine; he played the piano for the Duke and composed a march for him.",1
+P000074,P000074_S003,"Julian Ursyn Niemcewicz, in his dramatic eclogue, ""Nasze Przebiegi"" (""Our Discourses"", 1818), attested to ""little Chopin's"" popularity.",1
+P000075,P000075_S000,"From September 1823 to 1826 Chopin attended the Warsaw Lyceum, where he received organ lessons from the Czech musician Wilhelm Würfel during his first year.",1
+P000075,P000075_S001,"In the autumn of 1826 he began a three-year course under the Silesian composer Józef Elsner at the Warsaw Conservatory, studying music theory, figured bass and composition.",1
+P000075,P000075_S002,[n 3] Throughout this period he continued to compose and to give recitals in concerts and salons in Warsaw.,0
+P000075,P000075_S003,"He was engaged by the inventors of a mechanical organ, the ""eolomelodicon"", and on this instrument in May 1825 he performed his own improvisation and part of a concerto by Moscheles.",1
+P000075,P000075_S004,"The success of this concert led to an invitation to give a similar recital on the instrument before Tsar Alexander I, who was visiting Warsaw; the Tsar presented him with a diamond ring.",1
+P000075,P000075_S005,"At a subsequent eolomelodicon concert on 10 June 1825, Chopin performed his Rondo Op.",1
+P000075,P000075_S007,"This was the first of his works to be commercially published and earned him his first mention in the foreign press, when the Leipzig Allgemeine Musikalische Zeitung praised his ""wealth of musical ideas"".",0
+P000076,P000076_S000,"During 1824–28 Chopin spent his vacations away from Warsaw, at a number of locales.",0
+P000076,P000076_S001,"[n 4] In 1824 and 1825, at Szafarnia, he was a guest of Dominik Dziewanowski, the father of a schoolmate.",1
+P000076,P000076_S002,Here for the first time he encountered Polish rural folk music.,1
+P000076,P000076_S003,"His letters home from Szafarnia (to which he gave the title ""The Szafarnia Courier""), written in a very modern and lively Polish, amused his family with their spoofing of the Warsaw newspapers and demonstrated the youngster's literary gift.",1
+P000077,P000077_S000,"In 1827, soon after the death of Chopin's youngest sister Emilia, the family moved from the Warsaw University building, adjacent to the Kazimierz Palace, to lodgings just across the street from the university, in the south annex of the Krasiński Palace on Krakowskie Przedmieście,[n 5] where Chopin lived until he left Warsaw in 1830.",1
+P000077,P000077_S001,[n 6] Here his parents continued running their boarding house for male students; the Chopin Family Parlour (Salonik Chopinów) became a museum in the 20th century.,1
+P000077,P000077_S002,"In 1829 the artist Ambroży Mieroszewski executed a set of portraits of Chopin family members, including the first known portrait of the composer.",1
+P000077,P000077_S003,[n 7],0
+P000078,P000078_S000,"Four boarders at his parents' apartments became Chopin's intimates: Tytus Woyciechowski, Jan Nepomucen Białobłocki, Jan Matuszyński and Julian Fontana; the latter two would become part of his Paris milieu.",1
+P000078,P000078_S001,"He was friendly with members of Warsaw's young artistic and intellectual world, including Fontana, Józef Bohdan Zaleski and Stefan Witwicki.",0
+P000078,P000078_S002,He was also attracted to the singing student Konstancja Gładkowska.,1
+P000078,P000078_S003,"In letters to Woyciechowski, he indicated which of his works, and even which of their passages, were influenced by his fascination with her; his letter of 15 May 1830 revealed that the slow movement (Larghetto) of his Piano Concerto No.",1
+P000078,P000078_S004,"1 (in E minor) was secretly dedicated to her – ""It should be like dreaming in beautiful springtime – by moonlight.""",1
+P000078,P000078_S005,"His final Conservatory report (July 1829) read: ""Chopin F., third-year student, exceptional talent, musical genius.""",1
+P000079,P000079_S000,"In September 1828 Chopin, while still a student, visited Berlin with a family friend, zoologist Feliks Jarocki, enjoying operas directed by Gaspare Spontini and attending concerts by Carl Friedrich Zelter, Felix Mendelssohn and other celebrities.",1
+P000079,P000079_S001,"On an 1829 return trip to Berlin, he was a guest of Prince Antoni Radziwiłł, governor of the Grand Duchy of Posen—himself an accomplished composer and aspiring cellist.",1
+P000079,P000079_S002,"For the prince and his pianist daughter Wanda, he composed his Introduction and Polonaise brillante in C major for cello and piano, Op.",1
+P000080,P000080_S000,"Back in Warsaw that year, Chopin heard Niccolò Paganini play the violin, and composed a set of variations, Souvenir de Paganini.",1
+P000080,P000080_S001,"It may have been this experience which encouraged him to commence writing his first Études, (1829–32), exploring the capacities of his own instrument.",0
+P000080,P000080_S002,"On 11 August, three weeks after completing his studies at the Warsaw Conservatory, he made his debut in Vienna.",1
+P000080,P000080_S003,"He gave two piano concerts and received many favourable reviews—in addition to some commenting (in Chopin's own words) that he was ""too delicate for those accustomed to the piano-bashing of local artists"".",1
+P000080,P000080_S004,"In one of these concerts, he premiered his Variations on Là ci darem la mano, Op.",0
+P000080,P000080_S005,2 (variations on an aria from Mozart's opera Don Giovanni) for piano and orchestra.,0
+P000080,P000080_S006,"He returned to Warsaw in September 1829, where he premiered his Piano Concerto No.",1
+P000080,P000080_S007,"2 in F minor, Op.",1
+P000080,P000080_S008,21 on 17 March 1830.,1
+P000081,P000081_S000,"Chopin's successes as a composer and performer opened the door to western Europe for him, and on 2 November 1830, he set out, in the words of Zdzisław Jachimecki, ""into the wide world, with no very clearly defined aim, forever.""",1
+P000081,P000081_S001,"With Woyciechowski, he headed for Austria, intending to go on to Italy.",1
+P000081,P000081_S002,"Later that month, in Warsaw, the November 1830 Uprising broke out, and Woyciechowski returned to Poland to enlist.",1
+P000081,P000081_S003,"Chopin, now alone in Vienna, was nostalgic for his homeland, and wrote to a friend, ""I curse the moment of my departure.""",1
+P000081,P000081_S004,"When in September 1831 he learned, while travelling from Vienna to Paris, that the uprising had been crushed, he expressed his anguish in the pages of his private journal: ""Oh God!",1
+P000081,P000081_S005,"... You are there, and yet you do not take vengeance!""",0
+P000081,P000081_S006,"Jachimecki ascribes to these events the composer's maturing ""into an inspired national bard who intuited the past, present and future of his native Poland.""",0
+P000082,P000082_S000,"Chopin arrived in Paris in late September 1831; he would never return to Poland, thus becoming one of many expatriates of the Polish Great Emigration.",1
+P000082,P000082_S001,"In France he used the French versions of his given names, and after receiving French citizenship in 1835, he travelled on a French passport.",1
+P000082,P000082_S002,"However, Chopin remained close to his fellow Poles in exile as friends and confidants and he never felt fully comfortable speaking French.",1
+P000082,P000082_S003,"Chopin's biographer Adam Zamoyski writes that he never considered himself to be French, despite his father's French origins, and always saw himself as a Pole.",1
+P000083,P000083_S000,"In Paris, Chopin encountered artists and other distinguished figures, and found many opportunities to exercise his talents and achieve celebrity.",1
+P000083,P000083_S001,"During his years in Paris he was to become acquainted with, among many others, Hector Berlioz, Franz Liszt, Ferdinand Hiller, Heinrich Heine, Eugène Delacroix, and Alfred de Vigny.",1
+P000083,P000083_S002,"Chopin was also acquainted with the poet Adam Mickiewicz, principal of the Polish Literary Society, some of whose verses he set as songs.",1
+P000084,P000084_S000,Two Polish friends in Paris were also to play important roles in Chopin's life there.,1
+P000084,P000084_S001,"His fellow student at the Warsaw Conservatory, Julian Fontana, had originally tried unsuccessfully to establish himself in England; Albert Grzymała, who in Paris became a wealthy financier and society figure, often acted as Chopin's adviser and ""gradually began to fill the role of elder brother in [his] life.""",1
+P000084,P000084_S002,"Fontana was to become, in the words of Michałowski and Samson, Chopin's ""general factotum and copyist"".",0
+P000085,P000085_S000,"At the end of 1831, Chopin received the first major endorsement from an outstanding contemporary when Robert Schumann, reviewing the Op.",1
+P000085,P000085_S001,"2 Variations in the Allgemeine musikalische Zeitung (his first published article on music), declared: ""Hats off, gentlemen!",0
+P000085,P000085_S002,"A genius.""",0
+P000085,P000085_S003,On 26 February 1832 Chopin gave a debut Paris concert at the Salle Pleyel which drew universal admiration.,1
+P000085,P000085_S004,"The critic François-Joseph Fétis wrote in the Revue et gazette musicale: ""Here is a young man who ... taking no model, has found, if not a complete renewal of piano music, ... an abundance of original ideas of a kind to be found nowhere else ..."" After this concert, Chopin realized that his essentially intimate keyboard technique was not optimal for large concert spaces.",1
+P000085,P000085_S005,"Later that year he was introduced to the wealthy Rothschild banking family, whose patronage also opened doors for him to other private salons (social gatherings of the aristocracy and artistic and literary elite).",1
+P000085,P000085_S006,"By the end of 1832 Chopin had established himself among the Parisian musical elite, and had earned the respect of his peers such as Hiller, Liszt, and Berlioz.",0
+P000085,P000085_S007,"He no longer depended financially upon his father, and in the winter of 1832 he began earning a handsome income from publishing his works and teaching piano to affluent students from all over Europe.",1
+P000085,P000085_S008,"This freed him from the strains of public concert-giving, which he disliked.",0
+P000086,P000086_S000,Chopin seldom performed publicly in Paris.,0
+P000086,P000086_S001,"In later years he generally gave a single annual concert at the Salle Pleyel, a venue that seated three hundred.",1
+P000086,P000086_S002,"He played more frequently at salons, but preferred playing at his own Paris apartment for small groups of friends.",1
+P000086,P000086_S003,"The musicologist Arthur Hedley has observed that ""As a pianist Chopin was unique in acquiring a reputation of the highest order on the basis of a minimum of public appearances—few more than thirty in the course of his lifetime.""",0
+P000086,P000086_S004,The list of musicians who took part in some of his concerts provides an indication of the richness of Parisian artistic life during this period.,0
+P000086,P000086_S005,"Examples include a concert on 23 March 1833, in which Chopin, Liszt and Hiller performed (on pianos) a concerto by J.S.",1
+P000086,P000086_S006,"Bach for three keyboards; and, on 3 March 1838, a concert in which Chopin, his pupil Adolphe Gutmann, Charles-Valentin Alkan, and Alkan's teacher Joseph Zimmermann performed Alkan's arrangement, for eight hands, of two movements from Beethoven's 7th symphony.",1
+P000086,P000086_S007,Chopin was also involved in the composition of Liszt's Hexameron; he wrote the sixth (and final) variation on Bellini's theme.,1
+P000086,P000086_S008,"Chopin's music soon found success with publishers, and in 1833 he contracted with Maurice Schlesinger, who arranged for it to be published not only in France but, through his family connections, also in Germany and England.",1
+P000087,P000087_S000,"In the spring of 1834, Chopin attended the Lower Rhenish Music Festival in Aix-la-Chapelle with Hiller, and it was there that Chopin met Felix Mendelssohn.",1
+P000087,P000087_S001,"After the festival, the three visited Düsseldorf, where Mendelssohn had been appointed musical director.",1
+P000087,P000087_S002,"They spent what Mendelssohn described as ""a very agreeable day"", playing and discussing music at his piano, and met Friedrich Wilhelm Schadow, director of the Academy of Art, and some of his eminent pupils such as Lessing, Bendemann, Hildebrandt and Sohn.",1
+P000087,P000087_S003,"In 1835 Chopin went to Carlsbad, where he spent time with his parents; it was the last time he would see them.",1
+P000087,P000087_S004,"On his way back to Paris, he met old friends from Warsaw, the Wodzińskis.",0
+P000087,P000087_S005,"He had made the acquaintance of their daughter Maria in Poland five years earlier, when she was eleven.",1
+P000087,P000087_S006,"This meeting prompted him to stay for two weeks in Dresden, when he had previously intended to return to Paris via Leipzig.",0
+P000087,P000087_S007,"The sixteen-year-old girl's portrait of the composer is considered, along with Delacroix's, as among Chopin's best likenesses.",0
+P000087,P000087_S008,"In October he finally reached Leipzig, where he met Schumann, Clara Wieck and Felix Mendelssohn, who organised for him a performance of his own oratorio St. Paul, and who considered him ""a perfect musician"".",0
+P000087,P000087_S009,"In July 1836 Chopin travelled to Marienbad and Dresden to be with the Wodziński family, and in September he proposed to Maria, whose mother Countess Wodzińska approved in principle.",1
+P000087,P000087_S010,"Chopin went on to Leipzig, where he presented Schumann with his G minor Ballade.",0
+P000087,P000087_S011,"At the end of 1836 he sent Maria an album in which his sister Ludwika had inscribed seven of his songs, and his 1835 Nocturne in C-sharp minor, Op.",0
+P000087,P000087_S012,"27, No.",0
+P000087,P000087_S014,The anodyne thanks he received from Maria proved to be the last letter he was to have from her.,0
+P000088,P000088_S000,"Although it is not known exactly when Chopin first met Liszt after arriving in Paris, on 12 December 1831 he mentioned in a letter to his friend Woyciechowski that ""I have met Rossini, Cherubini, Baillot, etc.—also Kalkbrenner.",1
+P000088,P000088_S001,"You would not believe how curious I was about Herz, Liszt, Hiller, etc.""",1
+P000088,P000088_S002,"Liszt was in attendance at Chopin's Parisian debut on 26 February 1832 at the Salle Pleyel, which led him to remark: ""The most vigorous applause seemed not to suffice to our enthusiasm in the presence of this talented musician, who revealed a new phase of poetic sentiment combined with such happy innovation in the form of his art.""",1
+P000089,P000089_S000,"The two became friends, and for many years lived in close proximity in Paris, Chopin at 38 Rue de la Chaussée-d'Antin, and Liszt at the Hôtel de France on the Rue Lafitte, a few blocks away.",1
+P000089,P000089_S001,They performed together on seven occasions between 1833 and 1841.,1
+P000089,P000089_S002,"The first, on 2 April 1833, was at a benefit concert organized by Hector Berlioz for his bankrupt Shakespearean actress wife Harriet Smithson, during which they played George Onslow's Sonata in F minor for piano duet.",1
+P000089,P000089_S003,Later joint appearances included a benefit concert for the Benevolent Association of Polish Ladies in Paris.,0
+P000089,P000089_S004,"Their last appearance together in public was for a charity concert conducted for the Beethoven Memorial in Bonn, held at the Salle Pleyel and the Paris Conservatory on 25 and 26 April 1841.",1
+P000090,P000090_S000,"Although the two displayed great respect and admiration for each other, their friendship was uneasy and had some qualities of a love-hate relationship.",1
+P000090,P000090_S001,"Harold C. Schonberg believes that Chopin displayed a ""tinge of jealousy and spite"" towards Liszt's virtuosity on the piano, and others have also argued that he had become enchanted with Liszt's theatricality, showmanship and success.",1
+P000090,P000090_S002,Liszt was the dedicatee of Chopin's Op.,1
+P000090,P000090_S003,"10 Études, and his performance of them prompted the composer to write to Hiller, ""I should like to rob him of the way he plays my studies.""",1
+P000090,P000090_S004,"However, Chopin expressed annoyance in 1843 when Liszt performed one of his nocturnes with the addition of numerous intricate embellishments, at which Chopin remarked that he should play the music as written or not play it at all, forcing an apology.",1
+P000090,P000090_S005,"Most biographers of Chopin state that after this the two had little to do with each other, although in his letters dated as late as 1848 he still referred to him as ""my friend Liszt"".",1
+P000090,P000090_S006,"Some commentators point to events in the two men's romantic lives which led to a rift between them; there are claims that Liszt had displayed jealousy of his mistress Marie d'Agoult's obsession with Chopin, while others believe that Chopin had become concerned about Liszt's growing relationship with George Sand.",1
+P000091,P000091_S000,"In 1836, at a party hosted by Marie d'Agoult, Chopin met the French author George Sand (born [Amantine] Aurore [Lucile] Dupin).",1
+P000091,P000091_S001,"Short (under five feet, or 152 cm), dark, big-eyed and a cigar smoker, she initially repelled Chopin, who remarked, ""What an unattractive person la Sand is.",0
+P000091,P000091_S002,"Is she really a woman?""",0
+P000091,P000091_S003,"However, by early 1837 Maria Wodzińska's mother had made it clear to Chopin in correspondence that a marriage with her daughter was unlikely to proceed.",1
+P000091,P000091_S004,It is thought that she was influenced by his poor health and possibly also by rumours about his associations with women such as d'Agoult and Sand.,1
+P000091,P000091_S005,"Chopin finally placed the letters from Maria and her mother in a package on which he wrote, in Polish, ""My tragedy"".",1
+P000091,P000091_S006,"Sand, in a letter to Grzymała of June 1838, admitted strong feelings for the composer and debated whether to abandon a current affair in order to begin a relationship with Chopin; she asked Grzymała to assess Chopin's relationship with Maria Wodzińska, without realising that the affair, at least from Maria's side, was over.",1
+P000092,P000092_S000,In June 1837 Chopin visited London incognito in the company of the piano manufacturer Camille Pleyel where he played at a musical soirée at the house of English piano maker James Broadwood.,1
+P000092,P000092_S001,"On his return to Paris, his association with Sand began in earnest, and by the end of June 1838 they had become lovers.",1
+P000092,P000092_S002,"Sand, who was six years older than the composer, and who had had a series of lovers, wrote at this time: ""I must say I was confused and amazed at the effect this little creature had on me ...",1
+P000092,P000092_S003,"I have still not recovered from my astonishment, and if I were a proud person I should be feeling humiliated at having been carried away ..."" The two spent a miserable winter on Majorca (8 November 1838 to 13 February 1839), where, together with Sand's two children, they had journeyed in the hope of improving the health of Chopin and that of Sand's 15-year-old son Maurice, and also to escape the threats of Sand's former lover Félicien Mallefille.",1
+P000092,P000092_S004,"After discovering that the couple were not married, the deeply traditional Catholic people of Majorca became inhospitable, making accommodation difficult to find.",0
+P000092,P000092_S005,"This compelled the group to take lodgings in a former Carthusian monastery in Valldemossa, which gave little shelter from the cold winter weather.",1
+P000093,P000093_S000,"On 3 December, Chopin complained about his bad health and the incompetence of the doctors in Majorca: ""Three doctors have visited me ...",1
+P000093,P000093_S001,"The first said I was dead; the second said I was dying; and the third said I was about to die.""",0
+P000093,P000093_S002,He also had problems having his Pleyel piano sent to him.,1
+P000093,P000093_S003,It finally arrived from Paris in December.,0
+P000093,P000093_S004,"Chopin wrote to Pleyel in January 1839: ""I am sending you my Preludes [(Op.",0
+P000093,P000093_S005,28)].,0
+P000093,P000093_S006,"I finished them on your little piano, which arrived in the best possible condition in spite of the sea, the bad weather and the Palma customs.""",1
+P000093,P000093_S007,Chopin was also able to undertake work on his Ballade No.,0
+P000093,P000093_S008,"2, Op.",0
+P000093,P000093_S009,"38; two Polonaises, Op.",0
+P000093,P000093_S010,40; and the Scherzo No.,0
+P000093,P000093_S011,"3, Op.",0
+P000094,P000094_S000,"Although this period had been productive, the bad weather had such a detrimental effect on Chopin's health that Sand determined to leave the island.",1
+P000094,P000094_S001,"To avoid further customs duties, Sand sold the piano to a local French couple, the Canuts.",1
+P000094,P000094_S002,"[n 8] The group traveled first to Barcelona, then to Marseilles, where they stayed for a few months while Chopin convalesced.",1
+P000094,P000094_S003,"In May 1839 they headed for the summer to Sand's estate at Nohant, where they spent most summers until 1846.",1
+P000094,P000094_S004,"In autumn they returned to Paris, where Chopin's apartment at 5 rue Tronchet was close to Sand's rented accommodation at the rue Pigalle.",1
+P000094,P000094_S005,"He frequently visited Sand in the evenings, but both retained some independence.",0
+P000094,P000094_S006,"In 1842 he and Sand moved to the Square d'Orléans, living in adjacent buildings.",1
+P000095,P000095_S000,"At the funeral of the tenor Adolphe Nourrit in Paris in 1839, Chopin made a rare appearance at the organ, playing a transcription of Franz Schubert's lied Die Gestirne.",1
+P000095,P000095_S001,"On 26 July 1840 Chopin and Sand were present at the dress rehearsal of Berlioz's Grande symphonie funèbre et triomphale, composed to commemorate the tenth anniversary of the July Revolution.",1
+P000095,P000095_S002,Chopin was reportedly unimpressed with the composition.,0
+P000096,P000096_S000,"During the summers at Nohant, particularly in the years 1839–43, Chopin found quiet, productive days during which he composed many works, including his Polonaise in A-flat major, Op.",1
+P000096,P000096_S002,"Among the visitors to Nohant were Delacroix and the mezzo-soprano Pauline Viardot, whom Chopin had advised on piano technique and composition.",1
+P000096,P000096_S003,Delacroix gives an account of staying at Nohant in a letter of 7 June 1842:,1
+P000097,P000097_S000,"From 1842 onwards, Chopin showed signs of serious illness.",1
+P000097,P000097_S001,"After a solo recital in Paris on 21 February 1842, he wrote to Grzymała: ""I have to lie in bed all day long, my mouth and tonsils are aching so much.""",1
+P000097,P000097_S002,He was forced by illness to decline a written invitation from Alkan to participate in a repeat performance of the Beethoven Seventh Symphony arrangement at Erard's on 1 March 1843.,1
+P000097,P000097_S003,"Late in 1844, Charles Hallé visited Chopin and found him ""hardly able to move, bent like a half-opened penknife and evidently in great pain"", although his spirits returned when he started to play the piano for his visitor.",1
+P000097,P000097_S004,"Chopin's health continued to deteriorate, particularly from this time onwards.",0
+P000097,P000097_S005,"Modern research suggests that apart from any other illnesses, he may also have suffered from temporal lobe epilepsy.",1
+P000098,P000098_S000,"Chopin's relations with Sand were soured in 1846 by problems involving her daughter Solange and Solange's fiancé, the young fortune-hunting sculptor Auguste Clésinger.",1
+P000098,P000098_S001,The composer frequently took Solange's side in quarrels with her mother; he also faced jealousy from Sand's son Maurice.,0
+P000098,P000098_S002,"Chopin was utterly indifferent to Sand's radical political pursuits, while Sand looked on his society friends with disdain.",1
+P000098,P000098_S003,"As the composer's illness progressed, Sand had become less of a lover and more of a nurse to Chopin, whom she called her ""third child"".",1
+P000098,P000098_S004,"In letters to third parties, she vented her impatience, referring to him as a ""child,"" a ""little angel"", a ""sufferer"" and a ""beloved little corpse.""",0
+P000098,P000098_S005,"In 1847 Sand published her novel Lucrezia Floriani, whose main characters—a rich actress and a prince in weak health—could be interpreted as Sand and Chopin; the story was uncomplimentary to Chopin, who could not have missed the allusions as he helped Sand correct the printer's galleys.",1
+P000098,P000098_S006,"In 1847 he did not visit Nohant, and he quietly ended their ten-year relationship following an angry correspondence which, in Sand's words, made ""a strange conclusion to nine years of exclusive friendship.""",0
+P000098,P000098_S007,The two would never meet again.,0
+P000099,P000099_S000,Chopin's output as a composer throughout this period declined in quantity year by year.,0
+P000099,P000099_S001,"Whereas in 1841 he had written a dozen works, only six were written in 1842 and six shorter pieces in 1843.",1
+P000099,P000099_S002,In 1844 he wrote only the Op.,1
+P000099,P000099_S003,58 sonata.,1
+P000099,P000099_S004,1845 saw the completion of three mazurkas (Op.,1
+P000099,P000099_S006,"Although these works were more refined than many of his earlier compositions, Zamoyski opines that ""his powers of concentration were failing and his inspiration was beset by anguish, both emotional and intellectual.""",1

@@ -21,7 +21,7 @@ os.makedirs("results", exist_ok=True)
 print("CUDA Available:", torch.cuda.is_available())
 
 # === CONFIG ===
-MAX_PARAGRAPHS = 100 # Set to None to use all passages
+MAX_PARAGRAPHS = 2000 # Set to None to use all passages
 
 # Load + visualize
 paragraphs, passage_count, total_available, stats = load_and_visualize(max_paragraphs=MAX_PARAGRAPHS)
