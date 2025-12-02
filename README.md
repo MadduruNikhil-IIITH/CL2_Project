@@ -15,6 +15,10 @@ Folder structure
 - `surprisal.py` — Compute token-level surprisal using GPT-2 and BERT. Uses transformers and PyTorch; can use GPU if available.
 - `data/` — Place the `train.json` and `dev.json` (SQuAD) files here.
 - `results/` — Output directory with `run_<N>_passages` subfolders (contains raw sentences, features, plots, model files, etc.).
+- `report.pdf` — Project report.
+- `README.md` — This file.
+- `requirements.txt` — List of dependencies (optional).
+- `presentation_slides.pdf` — Slides for project presentation.
 
 ## Final Results – Performance Across Training Data Size
 
