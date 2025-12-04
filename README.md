@@ -31,9 +31,9 @@ Folder structure
 | 1,000            | 4,485           | 63.8%        | 69.12%   | 0.7480            |
 | **2,000**        | **8,328**       | **62.2%**    | **69.27%**   | **0.7377**        |
 
-**Best model**: 2,000 passages → **69.27% accuracy**, **0.7377 F1** on the Answer class  
-Ablation with only top-10 features: **68.29% accuracy / 0.7360 F1** → negligible drop!
-No Suprisal features: **69.21% accuracy / 0.7416 F1 ** → surprisal features help, but linguistic features are strong!
+- **Best model**: 2,000 passages → **69.27% accuracy**, **0.7377 F1** on the Answer class  
+ - Ablation with only top-10 features: **68.29% accuracy / 0.7360 F1** → negligible drop!
+ - ** No Suprisal features**: **69.21% accuracy / 0.7416 F1** → surprisal features help, but linguistic features are strong!
 
 ## Feature List (26 Total)
 
