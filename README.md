@@ -17,6 +17,7 @@ Folder structure
 - `results/` — Output directory with `run_<N>_passages` subfolders (contains raw sentences, features, plots, model files, etc.).
 - `report.pdf` — Project report.
 - `README.md` — This file.
+- `generate_plots.py` — Generate additional plots from results (feature importance, scaling metrics, prediction histograms).
 - `presentation_slides.pdf` — Slides for project presentation.
 - `requirements.txt` — List of dependencies (optional).
 
